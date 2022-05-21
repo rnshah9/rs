@@ -6,5 +6,3 @@ cmds:
   - cmd: /repo/rs92/rs92gps @@
   - cmd: /repo/rs41/rs41 @@
     filepath: /test.wav
-  - cmd: /repo/meisei/meisei_rs @@
-    filepath: /test.wav
