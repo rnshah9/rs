@@ -1,6 +1,5 @@
 project: rnshah9/rs
 target: rs92gps
-image: ghcr.io/rnshah9/playground:rs
 
 cmds:
   - cmd: /repo/rs92/rs92gps @@
