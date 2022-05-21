@@ -1,0 +1,5 @@
+project: rnshah9/rs
+target: rs92gps
+
+cmds:
+  - cmd: /repo/rs92/rs92gps @@
