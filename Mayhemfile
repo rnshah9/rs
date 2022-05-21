@@ -1,5 +1,10 @@
 project: rnshah9/rs
 target: rs92gps
+image: ghcr.io/rnshah9/playground:rs
 
 cmds:
   - cmd: /repo/rs92/rs92gps @@
+  - cmd: /repo/rs41/rs41 @@
+    filepath: /test.wav
+  - cmd: /repo/meisei/meisei_rs @@
+    filepath: /test.wav
