@@ -1,7 +1,6 @@
-project: rnshah9/rs
-target: rs92gps
+project: rs
+target: rs41
 
 cmds:
-  - cmd: /repo/rs92/rs92gps @@
-  - cmd: /repo/rs41/rs41 @@
+  - cmd: /repo/rs41/rs41 /test.wav
     filepath: /test.wav
